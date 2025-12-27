@@ -1,9 +1,8 @@
-// Two sum question: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-
 using LeetCodePractice.Common;
 
 namespace LeetCodePractice.Problems
 {
+    // Two sum question: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
     public class TwoSumProblem : IProblem
     {
         public int[] TwoSum(int[] nums, int target)
