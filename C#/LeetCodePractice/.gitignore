@@ -1,6 +1,12 @@
 # Ignore bin directory
+# Run git rm -r --cached bin command to remove from tracking if already tracked
 bin/
 # Ignore obj directory
+# Run git rm -r --cached obj command to remove from tracking if already tracked
 obj/
+# Ignore temporary files
+*.tmp
+# Ignore vscode settings
+.vscode/
 # Ignore user-specific files
 *.user
