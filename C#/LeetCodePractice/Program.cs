@@ -1,5 +1,5 @@
 ﻿using LeetCodePractice.Common;
 using LeetCodePractice.Problems;
 
-IProblem problem = new ProductOfArrayExceptSelfProblem();
+IProblem problem = new TopKFrequentElementsProblem();
 problem.Run();
