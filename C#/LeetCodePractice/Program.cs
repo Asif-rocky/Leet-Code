@@ -1,5 +1,5 @@
 ﻿using LeetCodePractice.Common;
 using LeetCodePractice.Problems;
 
-IProblem problem = new LongestConsecutiveSequenceProblem();
+IProblem problem = new EncodeAndDecodeStringsProblem();
 problem.Run();
